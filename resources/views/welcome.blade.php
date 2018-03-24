@@ -79,15 +79,15 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Catmon Developers
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://www.facebook.com/leiyu876">Leo Nuneza</a>
+                    <a href="https://www.facebook.com/profile.php?id=100009516555541">Ryan Boter</a>
+                    <a href="https://www.facebook.com/Paylokz">Paylow Nuneza</a>
+                    <a href="https://www.facebook.com/chad.imba">Richard Pasaylo</a>
+                    <a href="https://www.facebook.com/kelthuzad555">Jerome Nonol</a>
                 </div>
             </div>
         </div>
