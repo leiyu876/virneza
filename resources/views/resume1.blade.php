@@ -76,9 +76,7 @@
             <ul class="social-icon">
                 <li><a href="https://www.facebook.com/leiyu876"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                 <li><a href="https://twitter.com/leiyu876"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-slack" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                <li><a href="https://linkedin.com/in/leo-nuneza-27024a94"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
             </ul>
         </div>
 
@@ -104,7 +102,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Professionally drive</h3>
+                    <h3>Web Server Configutation</h3>
 
                     <p>
                         Synergistically strategize customer directed resources rather than principle.
@@ -113,7 +111,28 @@
             </div>
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Seamlessly leverage </h3>
+                    <h3>User Acceptance Testing </h3>
+
+                    <p>
+                        Quickly repurpose reliable customer service with orthogonal ideas. Competently.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="expertise-item">
+                    <h3>Website Design</h3>
+
+                    <p>
+                        Synergistically strategize customer directed resources rather than principle.
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="expertise-item">
+                    <h3>Developing Applications </h3>
 
                     <p>
                         Quickly repurpose reliable customer service with orthogonal ideas. Competently.
@@ -124,7 +143,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Interactively incubate</h3>
+                    <h3>Coding Work</h3>
 
                     <p>
                         Interactively myocardinate high standards in initiatives rather than next-generation.
@@ -134,7 +153,7 @@
 
             <div class="col-md-6">
                 <div class="expertise-item">
-                    <h3>Globally streamline</h3>
+                    <h3>Website Strategy</h3>
 
                     <p>
                         Dynamically initiate client-based convergence vis-a-vis performance based. </p>
@@ -163,11 +182,11 @@
                 <div class="progress-wrapper">
 
                     <div class="progress-item">
-                        <span class="progress-title">Marketing</span>
+                        <span class="progress-title">PHP</span>
 
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="62" aria-valuemin="0"
-                                 aria-valuemax="100" style="width: 62%"><span class="progress-percent"> 62%</span>
+                                 aria-valuemax="100" style="width: 99%"><span class="progress-percent"> 99%</span>
                             </div>
                         </div>
                         <!-- .progress -->
@@ -176,7 +195,7 @@
 
 
                     <div class="progress-item">
-                        <span class="progress-title">Market Research</span>
+                        <span class="progress-title">MySQL</span>
 
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0"
@@ -212,7 +231,7 @@
                     </div>
                     <!-- /.skill-progress -->
                     <div class="progress-item">
-                        <span class="progress-title">Project Management</span>
+                        <span class="progress-title">Database Management</span>
 
                         <div class="progress">
                             <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0"
@@ -244,27 +263,38 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="content-item">
-                    <small>2015 - Present</small>
-                    <h3>Head of market research</h3>
-                    <h4>Computer & Motor Ltd.</h4>
+                    <small>2017 - Present</small>
+                    <h3>Website Maintenance / Assistant Admin</h3>
+                    <h4>Rahdan Trading Corporation</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>Sinayi-at Al Thuqba Khobar, Saudi Arabia</p>
                 </div>
                 <!-- .experience-item -->
                 <div class="content-item">
-                    <small>2012 - 2015</small>
-                    <h3>Media Analyst</h3>
-                    <h4>BizzNiss</h4>
+                    <small>2015 - 2017</small>
+                    <h3>Web Developer</h3>
+                    <h4>Treon Inc.</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>Sabellano Street, Basak Pardo, Cebu City 6000 Philippines</p>
                 </div>
+
                 <!-- .experience-item -->
                 <div class="content-item">
-                    <small>2010 - 2012</small>
-                    <h3>Budget Administrator</h3>
-                    <h4>Somsom LLC</h4>
+                    <small>2013 - 2015</small>
+                    <h3>Credit Investigator / Database Administrator</h3>
+                    <h4>Philmen’s Credit Corporation</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>Ibaba Estancia Mandaue City Cebu, Philippines</p>
+                </div>
+                <!-- .experience-item -->
+
+                <!-- .experience-item -->
+                <div class="content-item">
+                    <small>2012 - 2013</small>
+                    <h3>Document Controller</h3>
+                    <h4>Rasec Builders</h4>
+
+                    <p>Corazon Catmon Cebu, Philippines</p>
                 </div>
                 <!-- .experience-item -->
             </div>
