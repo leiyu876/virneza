@@ -317,27 +317,35 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="content-item">
-                    <small>2010 - 2012</small>
-                    <h3>MA Product Design</h3>
-                    <h4>University of California</h4>
+                    <small>2008 - 2012</small>
+                    <h3>BS in Information Technology ( Software Development )</h3>
+                    <h4>University of Cebu (Main)</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>155A Sanciangko St, Cebu City, 6000 Cebu, Philippines</p>
                 </div>
                 <!-- .experience-item -->
                 <div class="content-item">
-                    <small>2007 - 2010</small>
-                    <h3>Business marketing course</h3>
-                    <h4>Royal Academy of Business</h4>
+                    <small>2006 - 2008</small>
+                    <h3>BS in Commerce ( Business Administration )</h3>
+                    <h4>University of San Jose Recoletos</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>Magallanes Street, Cebu City, 6000 Cebu, Philippines</p>
                 </div>
                 <!-- .experience-item -->
                 <div class="content-item">
                     <small>2002 - 2006</small>
-                    <h3>BA (Hons) Design</h3>
-                    <h4>University of Michigan</h4>
+                    <h3>Secondary</h3>
+                    <h4>Gabriel Jurado Foundation School Inc.</h4>
 
-                    <p>United Kingdom, London</p>
+                    <p>Flores Catmon Cebu, Philippines</p>
+                </div>
+                <!-- .experience-item -->
+                <div class="content-item">
+                    <small>1996 - 2002</small>
+                    <h3>Primary</h3>
+                    <h4>Catmon Central Elementary School</h4>
+
+                    <p>San Jose Catmon Cebu, Philippines</p>
                 </div>
                 <!-- .experience-item -->
             </div>
@@ -478,25 +486,22 @@
         <div class="row">
             <div class="col-md-12">
                 <address>
-                    <strong>Address</strong><br>
-                    1355 Market Street, Suite 900<br>
-                    San Francisco, CA 94103
-
+                    <strong>Current Address</strong><br>
+                    Sinayi-at Al Thuqba Khobar<br>
+                    Saudi Arabia
+                </address>
+                <address>
+                    <strong>Home Address</strong><br>
+                    Sacred Heard Village<br>
+                    Corazon Catmon Cebu, Philippines
                 </address>
                 <address>
                     <strong>Phone Number</strong><br>
-                    +61 3 8376 6284
+                    +966593484641
                 </address>
-
-                <address>
-                    <strong>Mobile Number</strong><br>
-                    987 654 321
-                </address>
-
-
                 <address>
                     <strong>Email</strong><br>
-                    <a href="mailto:#">coffee@amelie.me</a>
+                    <a href="mailto:#">leiyu876@yahoo.com</a>
                 </address>
             </div>
         </div>
