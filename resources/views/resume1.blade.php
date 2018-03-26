@@ -42,21 +42,31 @@
 <div class="left-col-block blocks">
     <header class="header theiaStickySidebar">
         <div class="profile-img">
-            <img src="{{ asset('resume1/img/img-profile.jpg') }}" class="img-responsive" alt=""/>
+            <img src="{{ asset('resume1/img/leo.jpg') }}" class="img-responsive" alt=""/>
         </div>
         <div class="content">
-            <h1>Leon Weiß</h1>
-            <span class="lead">Marketing Consultant</span>
+            <h1>Leo Doña Nuñeza</h1>
+            <span class="lead">Web Developer</span>
 
             <div class="about-text">
                 <p>
-                    Credibly embrace visionary internal or "organic" sources and business benefits. Collaboratively
-                    integrate efficient portals rather than customized customer service. Assertively deliver
-                    frictionless services via leveraged interfaces. Conveniently evisculate accurate sources and
-                    process-centric expertise.
+                    An ambitious problem solver with a passion in programming and who 
+                    would like to join a team of like-minded developers. I have much 
+                    experience of creating logical and innovative solutions to complex problems. 
+                    I'm thorough and precise in everything I did and has a keen interest in 
+                    technology, mobile applications and user experience. As someone who takes 
+                    responsibility for my own personal development, I'm continually evaluating
+                    and upgrading my skills so that I can stay at the cutting edge of web 
+                    development. I'm a natural problem solver, who has proven myself by 
+                    successfully completing projects for IT consultancies, software houses, web
+                    design agencies, and IT departments.
                 </p>
 
-                <p>Energistically fabricate customized imperatives through cooperative catalysts for change.</p>
+                <p>
+                    Right now I am looking for a suitable position with a company where
+                    outstanding performance is recognised and where I can work on a variety of
+                    high profile projects.
+                </p>
 
 
                 <p><img src="{{ asset('resume1/img/Signature.png') }}" alt="" class="img-responsive"/></p>
@@ -64,8 +74,8 @@
 
 
             <ul class="social-icon">
-                <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.facebook.com/leiyu876"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                <li><a href="https://twitter.com/leiyu876"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                 <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                 <li><a href="#"><i class="fa fa-slack" aria-hidden="true"></i></a></li>
                 <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
