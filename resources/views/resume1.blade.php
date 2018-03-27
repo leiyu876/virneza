@@ -264,7 +264,7 @@
             <div class="col-md-12">
                 <div class="content-item">
                     <small>2017 - Present</small>
-                    <h3>Website Maintenance / Assistant Admin</h3>
+                    <h3>Secretary</h3>
                     <h4>Rahdan Trading Corporation</h4>
 
                     <p>Sinayi-at Al Thuqba Khobar, Saudi Arabia</p>
