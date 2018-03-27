@@ -11,7 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    //return view('welcome');
-    return view('resume1');
-});
+Route::get('/', 'PagesController@resume01');
+Route::post('/contact_post', 'PagesController@contact_post')->name('contact_post');
