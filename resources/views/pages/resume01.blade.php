@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Leo Nuneza - Web Developer Catmon</title>
-
+    <meta name="description" content="Website Developer in Cebu Cebu with experience using PHP Frameworks such as Codeigniter, Yii, Laravel. Available as full time and freelance.">
+    <meta name="keywords" content="Web Developer,Database Administrator,PHP,Yii, Codeigniter,Laravel,Freelance,MySQL,PostgreSQL,Web Server,Testing Framework,Cebu,Searching job">
     <!-- favicon -->
     <link href="{{ asset('resume1/favicon.png') }}" rel=icon>
 
