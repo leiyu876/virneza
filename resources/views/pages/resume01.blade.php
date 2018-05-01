@@ -29,15 +29,16 @@
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 </head>
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_TRACKING_ID"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117960088-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'GA_TRACKING_ID');
+  gtag('config', 'UA-117960088-1');
 </script>
+
 <body id="page-top" data-spy="scroll" data-target=".navbar">
 <div id="main-wrapper">
 <!-- Page Preloader -->
