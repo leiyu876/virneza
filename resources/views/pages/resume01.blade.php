@@ -508,7 +508,7 @@
                 </address>
                 <address>
                     <strong>Phone Number</strong><br>
-                    +966593484641
+                    00966572408302
                 </address>
                 <address>
                     <strong>Email</strong><br>
